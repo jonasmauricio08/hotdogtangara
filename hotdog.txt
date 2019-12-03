@@ -23,17 +23,6 @@
 	},
 
 	{
-		"nome":"",
-		"descricao":"",
-		"descricao_completa":"",
-		"valor":"",
-		"disponibilidade":"",
-		"img":"",
-		"ingredientes":"",
-		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
-	},
-
-	{
 		"nome":"X-BACON",
 		"descricao":"Esse você vai te conquistar... <3",
 		"descricao_completa":"Todo o sabor do bacon com cheddar e um molho de tirar água da boca. Prove e pede bis...",
