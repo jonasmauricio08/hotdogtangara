@@ -1,0 +1,37 @@
+[
+  {
+    "nome":"AÇAÍ 150 ML",
+    "descricao":"São 150 ML de açaí bem recheado para você...",
+    "valor":"5,00",
+    "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
+    "disponibilidade":"sim",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+  },
+  
+  {
+    "nome":"AÇAÍ 250 ML",
+    "descricao":"São 250 ML de açaí bem recheado para você...",
+    "valor":"7,00",
+    "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
+    "disponibilidade":"",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+  },
+  
+  {
+    "nome":"AÇAÍ 350 ML",
+    "descricao":"São 350 ML de açaí bem recheado para você...",
+    "valor":"9,00",
+    "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
+    "disponibilidade":"",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+  },
+  
+  {
+    "nome":"AÇAÍ 500ML",
+    "descricao":"São 500 ML(1/2 fç.litro) de açaí bem recheado para você...",
+    "valor":"12,00",
+    "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
+    "disponibilidade":"",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+  }
+]
