@@ -1,5 +1,6 @@
 [
   {
+    "img":"https://img.elo7.com.br/product/zoom/247B561/painel-adesivo-acai-sobremesa-decoracao-lanchonete-comercio-adesivo-comercio.jpg",
     "nome":"AÇAÍ 150 ML",
     "descricao":"São 150 ML de açaí bem recheado para você...",
     "valor":"5,00",
@@ -9,6 +10,7 @@
   },
   
   {
+    "img":"https://img.elo7.com.br/product/zoom/247B46D/painel-adesivo-alimento-acai-banana-morango-decoracao-parede-adesivo-parede-infantil.jpg",
     "nome":"AÇAÍ 250 ML",
     "descricao":"São 250 ML de açaí bem recheado para você...",
     "valor":"7,00",
@@ -18,6 +20,7 @@
   },
   
   {
+    "img":"https://http2.mlstatic.com/polpa-de-acai-10-litros-caixa-de-isopor-D_NQ_NP_755997-MLB26852939724_022018-F.jpg",
     "nome":"AÇAÍ 350 ML",
     "descricao":"São 350 ML de açaí bem recheado para você...",
     "valor":"9,00",
@@ -27,6 +30,7 @@
   },
   
   {
+    "img":"http://www.curtamais.com.br/uploads/conteudos/ebb2d6a200c7dfb0bcfcc464c9300ea4.jpg",
     "nome":"AÇAÍ 500ML",
     "descricao":"São 500 ML(1/2 fç.litro) de açaí bem recheado para você...",
     "valor":"12,00",
