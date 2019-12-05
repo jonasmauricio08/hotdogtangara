@@ -6,7 +6,7 @@
 		"descricao_completa":"Lanche bem! Preço e sabor sem igual, o HOT DOG TRADICIONAL une o que há de melhor para você!",
 		"valor":"3,00",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCq-Lj8pnmAhUQHrkGHaRwD_cQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.tudoreceitas.com%2Freceita-de-cachorro-quente-americano-6360.html&psig=AOvVaw1MCbtjSggC_2_CXkli5pFA&ust=1575476847679860",
+		"img":"https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202018/Health/July/CR-Health-InlineHero-Healthy-HotDogs-07-18",
 		"ingredientes":"Carne e salsicha ao molho, milho e ervilha, vinagrete e batata palha.",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -17,7 +17,7 @@
 		"descricao_completa":"Tá na hora de mudar né? Experimente o X-FRANGO e surpreenda-se com o sabor sem igual. ;)",
 		"valor":"3,50",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiU1JDb85nmAhUXHLkGHRw4DvEQjRx6BAgBEAQ&url=https%3A%2F%2Fculinaryginger.com%2Fmexican-style-hot-dogs%2F&psig=AOvVaw2LlnmiguOdhsF0Innbvqp3&ust=1575477064811648",
+		"img":"http://www.naijawinelovers.com/wp-content/uploads/2019/06/HotDOG.jpg",
 		"ingredientes":"Carne e salshicha ao molho, frango desfiado, catupiry, milho e ervilha, vinagrete e batata palha.",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -28,7 +28,7 @@
 		"descricao_completa":"Todo o sabor do bacon com cheddar e um molho de tirar água da boca. Prove e pede bis...",
 		"valor":"3,50",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXxdO69JnmAhVoDrkGHdVXAMUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.topsmarkets.com%2FRecipes%2FDetail%2F8173%2FSmokey_Bacon_Cheese_Dog&psig=AOvVaw3LFaZyMehBOhi91Qe2cTra&ust=1575477295012113",
+		"img":"http://www.jornaldomediovale.com.br/web_arquivos/1.2155972/imagens/15640958350410.jpg",
 		"ingredientes":"Carne e salsicha ao molho, bacon, cheddar, milho e ervilha, vinagrete e batata palha.",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -39,7 +39,7 @@
 		"descricao_completa":"Sinta o sabor. Peça agora mesmo e prove essa delicia.",
 		"valor":"4,00",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjRi8f59ZnmAhXRFLkGHXibBcUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.vvsupremo.com%2Frecipe%2Fhot-dogs-a-la-mexicana-2%2F%3Flang%3Des&psig=AOvVaw0VkaNXzqgUVtwT6BJHFdWn&ust=1575477632615093",
+		"img":"https://previews.123rf.com/images/margouillat/margouillat1401/margouillat140100687/25280891-hot-dog-sandwich.jpg",
 		"ingredientes":"Carne e salsicha ao molho, calabresa, cheddar, milho e ervilha, vinagrete e batata palha",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -50,7 +50,7 @@
 		"descricao_completa":"O sabor da nossa tera. Se você ainda não provou é porque 'você tem uma alma sebosa'. :D",
 		"valor":"4,00",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi8s8O39pnmAhXPH7kGHa8oDvQQjRx6BAgBEAQ&url=https%3A%2F%2Fpt.best-wallpaper.net%2FHot-dog-sausage-french-fries_wallpapers.html&psig=AOvVaw2zK5_rTA25Z-gV_K_kPN0H&ust=1575477771808908",
+		"img":"https://media.daysoftheyear.com/20171223110023/hot-dog-day2.jpg",
 		"ingredientes":"Carne e salsicha ao molho, carne de sol, cheddar, milho e ervilha, vinagrete e batata palha",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -61,7 +61,7 @@
 		"descricao_completa":"Juntamos tudo o que você gosta para oferer um sabor sem igual. Peça agora mesmo e aguardamos você pedir bis. :)",
 		"valor":"4,50",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiR_4C195nmAhWaH7kGHReWCO8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.assiscity.com%2F%3Fb%3D87713&psig=AOvVaw3r8NyAaGOExBKKRHl3UJx8&ust=1575478090247327",
+		"img":"https://jellytoastblog.com/wp-content/uploads/2016/06/homemade-hotdog-toppings-9-of-15.jpg",
 		"ingredientes":"Carne e salsicha ao molho, frango desfiado, catupiry, cheddar, milho e ervilha, vinagrete e batata palha",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -72,7 +72,7 @@
 		"descricao_completa":"Que tal ser surpreendido? Peça agora essa novidade!",
 		"valor":"4,50",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwihh-XS95nmAhX9HLkGHfP3DggQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.canoinhasonline.com.br%252F2017%252F12%252Fsexta-feira-tem-noite-do-cachorro.html%26psig%3DAOvVaw32x_qy_AnSDFAKoXBShZVC%26ust%3D1575478118761181&psig=AOvVaw32x_qy_AnSDFAKoXBShZVC&ust=1575478118761181",
+		"img":"https://www.nugonutrition.com/images/uploads/blog_feature/carrothotdogsblog.jpg",
 		"ingredientes":"Carne e salsicha ao molho, frango desfiado, bacon, catupiry, cheddar, milho e ervilha, vinagrete e batata palha",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	},
@@ -83,7 +83,7 @@
 		"descricao_completa":"Esse vai matar a sua fome, ou nvocê vai pedir outro... :)",
 		"valor":"5,00",
 		"disponibilidade":"sim",
-		"img":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiFot-B-ZnmAhXhIrkGHQdADMUQjRx6BAgBEAQ&url=https%3A%2F%2Fcompactaprint.com.br%2Fmaquina-de-hot-dog-3%2F&psig=AOvVaw3mkv_LroEjKuzWgur7pFXU&ust=1575478513354891",
+		"img":"https://www.slurrpy.com/wp-content/uploads/2012/01/HOT-DOG-800x500.jpg",
 		"ingredientes":"Carne e salsicha ao molho,calabresa, bacon, frango desfiado, catupiry, cheddar, milho e ervilha, vinagrete e batata palha",
 		"promocao":"NENHUMA PROMOÇÃO... FIQUE ATENTO, PODE SURGIR UMA PROMOÇÃO A QUALQUER MOMENTO. ;)"
 	}
