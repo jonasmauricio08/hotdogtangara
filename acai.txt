@@ -7,7 +7,7 @@
     "valor":"5,00",
     "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
     "disponibilidade":"sim",
-    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)"
   },
   
   {
@@ -18,7 +18,7 @@
     "valor":"7,00",
     "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
     "disponibilidade":"",
-    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)"
   },
   
   {
@@ -29,7 +29,7 @@
     "valor":"9,00",
     "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
     "disponibilidade":"",
-    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)"
   },
   
   {
@@ -40,6 +40,6 @@
     "valor":"12,00",
     "ingredientes":"Açaí com/ou Paçoca, Marshmallow, Mini Ball, Ovomaltine, Granola, Farinha Láctea, Leite em Pó, Cereal Matinal, Tubinhos, Bis, Passa tempo, Nescau Cereal, Jujuba, Coco ralado, Confete, Amendoim confeitado, Granulado e/ou Baton.",
     "disponibilidade":"",
-    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)",
+    "promocao":"NENHUMA PROMOÇÃO NO MOMENTO. FIQUE ATENTO, A QUALQUER MOMENTO PODE SURGIR UMA... ;)"
   }
 ]
